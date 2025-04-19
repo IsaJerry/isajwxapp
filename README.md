@@ -1,0 +1,2 @@
+# isajwxapp
+for wechatapps
